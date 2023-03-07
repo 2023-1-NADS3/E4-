@@ -1,0 +1,7 @@
+Durante as primeiras semanas do projeto, abordamos os seguintes tópicos em discussões em grupo:
+
+- Tomada de decisão da proposta do Projeto
+- Definição do escopo a ser atingido com a entrega final
+- Definição das funcionalidades do projeto
+- Criação do cronograma paralelo das entregas que devem ser feitas durante o semestre
+- Desenvolvimento inicial de um plano de ação para o desenvolvimento do projeto.
