@@ -1,0 +1,8 @@
+Slogan: Pense, anote e guarde! 
+
+O NoteMaster tem a missão de entregar aos estudantes um aplicativo que facilite o processo de aprendizagem. 
+O nosso intuito em relação aos usuários é baseado em um desgin minimalista e intuitivo, capaz de armazenar anotações e informações relevantes. 
+Cremos que a organização do seu ambiente de produção deva ser simples, dinâmica e descomplicada, e é por isso que oferecemos tais funcionalidades como filtros, palavras chaves e sincronização em diferentes dispositivos. 
+Nosso aplicativo é uma extensão do processo de aprendizagem, possibilitando os estudantes a terem suas informações importante sempre consigo, além de poderem se concentrar no que realmente importa: o aprendizado.
+
+Facilite seu aprendizado com o NoteMaster, o minimalismo transformando suas anotações de forma intuitiva.
