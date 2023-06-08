@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  </head>
+  <body>
+    <div class= "icon-container">
+      <div class="icon-circle ">
+      <i class="fas fa-user" style="font-size: 120px;"></i>
+      </div>
+    </div>
+    <div class="card"> 
+      <form class="login-form" action="/register" method="POST">
+        <div class="main-title">
+          <h1 class="main-title">Crie sua conta!</h1>
+        </div>
+        <input type="text" name="nome" placeholder="Nome" required>
+        <input type="text" name="email" placeholder="Email" required>
+        <input type="password" name="senha" placeholder="Senha" required>
+        <input type="password" name="confirmpassword" placeholder="Digite a senha novamente" required>
+      <button type="submit" value="Cadastrar" (click)="goToHome()">Registrar</button>  
+     
+
+        <p class="sign-up">Já possui conta? <a routerLink="/login">Clique</a></p>
+      </form>
+    </div>
+  </body>
+</html>

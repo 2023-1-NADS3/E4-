@@ -1,0 +1,23 @@
+<router-outlet>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  </head>
+  <body>
+    <div class= "icon-container">
+      <div class="icon-circle ">
+      <i class="fas fa-user" style="font-size: 120px;"></i>
+      </div>
+    </div>
+    <div class="card"> 
+      <form class="login-form" action="/login" method="POST">
+        <h1 class="main-title">Olá!</h1>
+        <input type="text" name="email" placeholder="Digite seu e-mail" required>
+        <input type="password" name="senha" placeholder="Digite sua senha" required>
+        <a routerLink="/forgot-password" class="forgot-password">Esqueci minha senha.</a>
+        <button (click)="goToHome()">Login</button>
+        <p class="sign-up">Não possui conta? <a routerLink="/register">Crie</a></p>
+      </form>
+    </div>
+  </body>
+</html>
