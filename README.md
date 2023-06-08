@@ -1,27 +1,61 @@
-# NotesFrontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
+# Note Master 
 
-## Development server
+O NoteMaster tem a missão de entregar aos estudantes um aplicativo que facilite o processo de
+aprendizagem. O nosso intuito em relação aos usuários é baseado em um design minimalista e intuitivo,
+capaz de armazenar anotações e informações relevantes. Cremos que a organização do seu ambiente de
+produção deva ser simples, dinâmica e descomplicada, e é por isso que oferecemos tais funcionalidades
+como filtros, palavras chaves e sincronização em diferentes dispositivos. 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Nosso aplicativo é uma extensão do processo de aprendizagem, possibilitando os estudantes a terem suas informações importantes sempre
+consigo, além de poderem se concentrar no que realmente importa: o aprendizado.
+## Autores
 
-## Code scaffolding
+- Alanis Vieira
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+- Eduardo Donini 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+- Lucas Souza 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+- Matheus Rocha
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+## Funcionalidades
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Criação de notas: Permitir que os usuários criem novas notas para armazenar informações relevantes relacionadas aos seus estudos. Isso pode incluir a capacidade de adicionar títulos e conteúdo de texto.
+
+- Edição: Fornecer recursos para editar as notas para que os usuários possam alterar os dados de acordo com suas preferências e necessidades.
+
+- Design minimalista e intuitivo: O aplicativo possui um design limpo e simples, tornando-o fácil de usar e navegar. Isso permite que os estudantes se concentrem na aprendizagem em vez de se distraírem com uma interface complexa.
+
+- Exclusão de notas: Permitir que os usuários excluam notas que não são mais relevantes ou que não desejam mais manter no aplicativo. Isso pode ser feito por meio de um botão de exclusão ou uma opção de deslizar para excluir, garantindo que os usuários possam gerenciar suas notas de forma eficiente.
+
+- Criação de cadastro de usuário: Implementar um processo de criação de conta ou cadastro de usuário. Isso permitirá que os usuários criem uma conta personalizada no aplicativo, com nome de usuário e senha, para que possam fazer login e acessar suas notas em diferentes dispositivos. O cadastro pode incluir informações básicas, como nome, endereço de e-mail e senha segura.
+
+## Documentação
+
+Segue link para visualizar a documentação do projeto:
+
+https://docs.google.com/document/d/1GInkPhCm4Eb8RC8znaVejjWuijKq7d4N3KbBXfREx4I/edit?usp=drivesdk
+
+## Documentação de cores
+
+| Cor  | [#000000]
+https://corhexa.com/000000
+
+| Cor  | [#4c4f4a]
+https://corhexa.com/4c4f4a
+
+| Cor  | [#d9d9d9]
+https://corhexa.com/d9d9d9
+
+
+## 🚀 Sobre nosso projeto:
+
+O NoteMaster visa revolucionar a forma como os estudantes aprendem, oferecendo um aplicativo
+minimalista e eficiente para armazenar e organizar informações relevantes, permitindo maior concentração no aprendizado.
+
+GitHub: https://github.com/2023-1-NADS3/E4-
