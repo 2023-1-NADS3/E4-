@@ -1,6 +1,0 @@
-Durante a primeira semana, após a divisão dos grupos, nos reunimos para
-definir qual seria o problema a ser resolvido e depois de decidir o tema do
-nosso projeto, definimos as suas funcionalidades.
-Em seguida, estruturamos um resumo do projeto e separamos as etapas serem
-executadas por semanas e até o prezado momento, estamos dando início ao
-wireframe e definindo parte do design.

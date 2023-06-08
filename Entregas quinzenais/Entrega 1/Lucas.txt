@@ -1,0 +1,3 @@
+Esta semana, eu e meu grupo nos reunimos para definirmos os 6 requisitos e mais alguns detalhes do projeto,
+ como layout, cores, tipografia e modelos de exemplo. 
+Criamos o manifesto pessoal em conjunto e começamos a pesquisar como podemos dar início ao código do projeto.
